@@ -1,8 +1,5 @@
 ### 범찬이의 두근두근 슬기로운 코딩 생활 👋
 
-🛠️ Stacks
-<img src="https://img.shields.io/badge/Python-#3776AB?logo=Python">
-
 <!--
 **bumcoding/bumcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
