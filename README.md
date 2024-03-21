@@ -1,4 +1,9 @@
-### 범찬이의 두근두근 슬기로운 코딩 생활 👋
+![rstudio](https://github.com/bumcoding/bumcoding/assets/127473145/6ff3877f-ad0e-447c-84ff-4415677ab88b)### 범찬이의 두근두근 슬기로운 코딩 생활 👋
+
+🛠️ Stacks
+![Uploading rstudio![pytorch](https://github.com/bumcoding/bumcoding/assets/127473145/f4b68342-7da8-40e4-81e2-6399a1e770e0)![python](https://github.com/bumcoding/bumcoding/assets/127473145/d1317b97-6725-4163-8ca2-b458fbb92112)
+![tensorflow](https://github.com/bumcoding/bumcoding/assets/127473145/120850b0-b83c-4a11-98f2-6030bd014ffd)
+.svg…]()
 
 <!--
 **bumcoding/bumcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
