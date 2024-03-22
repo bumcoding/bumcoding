@@ -1,5 +1,7 @@
 ### 범찬이의 두근두근 슬기로운 코딩 생활 👋
 
+
+<img src="https://img.shields.io/badge/Ruby-CC342D?logo=Ruby">
 <!--
 **bumcoding/bumcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
