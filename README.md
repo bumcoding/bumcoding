@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, Nice to see you!</h1>
+
+! [header] (https://capsule-render. vercel.app/api?type-wave&color-auto&height-3008section-header&text-cap:12
 <h3 align="center">컴퓨터 소프트웨어를 전공한 AI 엔지니어를 희망하는 학생입니다.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bumcoding&label=Profile%20views&color=0e75b6&style=flat" alt="bumcoding" /> </p>
