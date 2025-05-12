@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,3&height=120&section=header&text=Bumcoding&fontSize=50" alt="header" />
+</p>
+
 <h1 align="center">Hi 👋, Nice to see you!</h1>
 
 <h3 align="center">컴퓨터 소프트웨어를 전공하고 현재 AI 알고리즘 공부중인 학생입니다.</h3>
