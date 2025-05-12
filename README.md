@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, Nice to see you!</h1>
 
-! [header] (https://capsule-render. vercel.app/api?type-wave&color-auto&height-3008section-header&text-cap:12
 <h3 align="center">컴퓨터 소프트웨어를 전공하고 현재 AI 알고리즘 공부중인 학생입니다.</h3>
 
 ---
@@ -8,7 +7,14 @@
 <h3>💡 Research Interests</h3>
 
   - Computer Vision (CV)
-  - Natural Language Processing (NLP) <br> <br>
+    - Image Classification
+    - Object Detection
+    - Face Recognition
+   
+  - Natural Language Processing (NLP)
+    - Text Classification
+    - Sentiment Analysis
+    - Machine Translation <br> <br>
 
 </div>
 
