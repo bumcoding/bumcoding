@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,3&height=120&section=header&text=Bumcoding&fontSize=50" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,3&height=200&section=header&text=Bumcoding&fontSize=50" alt="header" />
 </p>
 
 <h1 align="center">Hi 👋, Nice to see you!</h1>
@@ -61,6 +61,10 @@
 
 ---
 
-</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bumcoding&show_icons=true&locale=en" alt="bumcoding" /></p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bumcoding&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bumcoding&layout=compact&theme=tokyonight&langs_count=6" height="180"/>
+</p>
